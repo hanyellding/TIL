@@ -1,4 +1,3 @@
-[NOTION](https://github.com/hanyellding/TIL/tree/main/NOTION)
 # Today I Learned
 블로그 개발중...
 
