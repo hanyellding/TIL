@@ -2,4 +2,4 @@
 블로그 개발중...
 
 ## NOTION
-* [4월23일](https://github.com/hanyellding/TIL/tree/main/NOTION)
+* [4월23일](https://github.com/hanyellding/TIL/blob/main/NOTION/2021-04-23.md)
