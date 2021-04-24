@@ -1,4 +1,4 @@
-# Today I Learned
+Today I Learned
 블로그 개발중...
 
 ## NOTION
