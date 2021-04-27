@@ -10,6 +10,7 @@ Github에 가입이 되어있는 상태라는 가정 하에 방법을 작성하�
 
 [Git Download](https://git-scm.com/downloads){:target="_blank"}
 [새 탭에서 열기](https://www.google.com/){:target="_blank"}
+<a href="https://www.google.com/" target="_blank">
 
 ### **2. github에서 new repository(새 저장소)를 생성해줍니다.**
 
