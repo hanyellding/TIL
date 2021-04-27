@@ -18,29 +18,29 @@ Github에 가입이 되어있는 상태라는 가정 하에 방법을 작성하�
 
 ![1](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/1.jpg)
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/2.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/2.jpg)
+![2](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/2.jpg)
 
 ### **3. 생성된 repository의 저장소를 복사합니다.**
 
 HTTPS/SSH 오른쪽의 주소를 복사해둡니다.
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/3.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/3.jpg)
+![3](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/3.jpg)
 
 ### **4. 로컬로 돌아와서, 프로젝트를 업로드하고싶은 폴더 우클릭> Git Bash Here**
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/4.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/4.jpg)
+![4](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/4.jpg)
 
 ### **5. Git cmd창이 뜨면, 초기 설정을 진행해줍니다.**
 
 " "내부에 본인의 깃헙 user name이랑 email 입력해주면 됩니다. 
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/5.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/5.jpg)
+![5](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/5.jpg)
 
 ### **6.**
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/6.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/6.jpg)
+![6](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/6.jpg)
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/Untitled.png](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/Untitled.png)
+![7](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/7.jpg)
 
 ```
 **1)**.git 파일 생성
@@ -59,7 +59,7 @@ $ git commit -m "주석"
 
 ### **7.**
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/7.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/7.jpg)
+![8](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/8.jpg)
 
 ```
 **1)**$ git remote add origin 복사했던 repository 주소
@@ -75,6 +75,6 @@ $ git remote add origin 복사했던 repository 주소 재입력
 
 ### **8. 프로젝트 업로드 완료**
 
-![Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/8.jpg](Github%E1%84%8B%E1%85%A6%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8B%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%80%E1%85%B5%20c70ad363b81b4ba2be2d220c9e3bdb8d/8.jpg)
+![9](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/9.png)
 
 출처: [https://2hyes.tistory.com/91](https://2hyes.tistory.com/91)
