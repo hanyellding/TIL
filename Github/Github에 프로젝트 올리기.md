@@ -8,8 +8,7 @@ Github에 가입이 되어있는 상태라는 가정 하에 방법을 작성하�
 
 윈도우라면, 설정>시스템>정보>'시스템 종류'에서 32bit인지 64bit인지 확인 가능!
 
-<https://git-scm.com/downloads>{: target="_blank"}
-[download](https://git-scm.com/downloads){:target="_blank"}
+<https://git-scm.com/downloads>
 
 ### **2. github에서 new repository(새 저장소)를 생성해줍니다.**
 
