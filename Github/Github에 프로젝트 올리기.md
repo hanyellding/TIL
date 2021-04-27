@@ -40,7 +40,7 @@ HTTPS/SSH 오른쪽의 주소를 복사해둡니다.
 
 ![6](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/6.jpg)
 
-![7](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/7.jpg)
+![9](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/9.png)
 
 ```
 **1)**.git 파일 생성
@@ -59,7 +59,7 @@ $ git commit -m "주석"
 
 ### **7.**
 
-![8](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/8.jpg)
+![7](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/7.jpg)
 
 ```
 **1)**$ git remote add origin 복사했던 repository 주소
@@ -75,6 +75,6 @@ $ git remote add origin 복사했던 repository 주소 재입력
 
 ### **8. 프로젝트 업로드 완료**
 
-![9](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/9.png)
+![8](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%98%AC%EB%A6%AC%EA%B8%B0_images/8.jpg)
 
 출처: [https://2hyes.tistory.com/91](https://2hyes.tistory.com/91)
