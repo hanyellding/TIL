@@ -14,4 +14,4 @@
 * [Github에 프로젝트올리기](https://github.com/hanyellding/TIL/blob/main/Github/Github%EC%97%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%98%AC%EB%A6%AC%EA%B8%B0.md)
 
 ## MySQL
-*[DATE,DATETIME,TIME,TIMESTAMP](https://github.com/hanyellding/TIL/blob/main/MySQL/DATE,%20DATETIME,%20TIME,%20TIMESTAMP%EC%B0%A8%EC%9D%B4.md)
+* [DATE,DATETIME,TIME,TIMESTAMP 차이](https://github.com/hanyellding/TIL/blob/main/MySQL/DATE,%20DATETIME,%20TIME,%20TIMESTAMP%EC%B0%A8%EC%9D%B4.md)
