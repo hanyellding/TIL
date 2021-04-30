@@ -49,3 +49,5 @@ TIMESTAMP는 4byte
 DATETIME은 데이터값을 입력을 해주어야만 날짜가 입력이 됩니다.
 
 TIMESTAMP는 데이터값을 입력해 주지 않고 저장시에 자동으로 현재 날짜가 입력이 됩니다.
+
+출처 : https://blog.naver.com/nieah914/221810697040
