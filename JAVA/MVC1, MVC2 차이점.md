@@ -77,3 +77,5 @@ MVC 패턴은 **MVC 모델 1**과 **MVC 모델 2**가 있다.
 설계 단계에서 비용이 많이 들어 **개발 속도가 느리다**는 단점이 있지만, 
 
 **확장에 용이**하고 **유지보수가 수월**하다는 것은 매우 큰 메리트가 될 수 있다.
+
+출처 : https://onejuny.tistory.com/entry/JavaJsp-MVC-1-MVC-2-%EC%B0%A8%EC%9D%B4-%EB%B0%8F-%EC%9E%A5%EB%8B%A8%EC%A0%90
